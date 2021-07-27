@@ -4,3 +4,21 @@ header{
 .nav_logo_link img{
     width: 290px;
 }
+.navigationg_links li a{
+    color: #3C3C3C !important;
+}
+.banner_img img{
+    width: 80%;
+}
+h1{
+    font-size: 60px;
+}
+.banner_details h1{
+    color: #363958;
+}
+.banner_details h1 span{
+    color: #fa804c;
+}
+.banner_details p{
+    color: #3E3E3E;
+}
