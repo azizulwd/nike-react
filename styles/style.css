@@ -49,3 +49,14 @@ header{
     width: 310px;
     height: 310px;
 }
+.feature{
+    border-radius: 15px;
+    box-shadow: 0 0 10px lightgray;
+}
+.feature .feature_icon img{
+    width: 78px;
+    height: 80px;
+}
+.featured_img img{
+    width: 80%;
+}
